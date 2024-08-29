@@ -1,16 +1,7 @@
-# flutter_habit_builder_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Habit Builder 1](https://github.com/zargham746/Flutter-Habit-Builder-App/assets/121686435/ae3749fd-0ccc-4ff3-9869-b63dea9a8b6e)
+![Habit Builder 2](https://github.com/zargham746/Flutter-Habit-Builder-App/assets/121686435/92b4a0f1-4801-4835-a561-3bf2fb906441)
+![Habit Builder 3](https://github.com/zargham746/Flutter-Habit-Builder-App/assets/121686435/49e6791e-ec9c-4fd1-81fa-172eea172f24)
+![Habit Builder 4](https://github.com/zargham746/Flutter-Habit-Builder-App/assets/121686435/eddd6099-9b8a-4f4e-bb42-37e92158f7d0)
+![Habit Builder 5](https://github.com/zargham746/Flutter-Habit-Builder-App/assets/121686435/6429b817-dfdc-4270-b4ee-99e97c77fe66)
+![Habit Builder 6](https://github.com/zargham746/Flutter-Habit-Builder-App/assets/121686435/46f5a925-033e-41c5-ae6f-9738a3145c54)
+![Habit Builder 7](https://github.com/zargham746/Flutter-Habit-Builder-App/assets/121686435/c3f03961-725e-4ede-9580-dbcc7bc2454f)
